@@ -1,13 +1,5 @@
-# Conway's Game of Life
+# AoC 2022 Day 10 Visualizer
 
-Live site [here](https://assert-justice.github.io/conway_visualized/)
+A visualizer (and solver) for Advent of Code 2022 day 10 part 2.
 
-## Draw a Line
-
-```ts
-function drawLineHoriz(x: number, y: number, length: number)
-function onGrid(grid: Sim, x: number, y: number)
-function drawLineVertical(x: number, y: number, length: number)
-function drawBox(x: number, y: number, width: number, height: number)
-function drawNegBox(x: number, y: number, width: number, height: number)
-```
+Live site [here](https://assert-justice.github.io/aoc_2022_day10_vis/)
